@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with a strong focus on innovative problem-
 
 - 🌱 I’m currently working with **TypeScript**, **JavaScript**, **Node**, and **Vue**.
 - 💡 I was the main developer of **MedReddie**, a healthcare solution that won **$450K at Elevate** and secured **first place in a national competition**.
-- 📚 I'm studying data structure and algorithmic problems aside, constantly improving my ability to write efficient, scalable code.
+- 📚 I'm studying **Data Structure** and **Algorithmic Problems** aside, constantly improving my ability to write efficient, scalable code.
 - 🚀 Co-founder of **COVID-19 Tracker** - The website attracted over 10,000 visits within the first month. It gained significant recognition in Brazil, where it was highlighted as a valuable resource during the coronavirus pandemic.
   <br>
 
