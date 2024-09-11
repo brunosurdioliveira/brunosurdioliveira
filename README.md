@@ -3,7 +3,7 @@
 I'm a passionate full-stack developer with a strong focus on innovative problem-solving. I enjoy tackling challenging problems and making an impact with technology.
 
 - 🌱 I’m currently working with **TypeScript**, **JavaScript**, **Node**, and **Vue**.
-- 💡 I'm the main developer of **MedReddie**, a healthcare solution that won **$450K at Elevate** and secured **first place in a national competition**.
+- 💡 I was the main developer of **MedReddie**, a healthcare solution that won **$450K at Elevate** and secured **first place in a national competition**.
 - 📚 I'm studying data structure and algorithmic problems aside, constantly improving my ability to write efficient, scalable code.
 - 🚀 Co-founder of **COVID-19 Tracker** - The website attracted over 10,000 visits within the first month. It gained significant recognition in Brazil, where it was highlighted as a valuable resource during the coronavirus pandemic.
   <br>
@@ -17,9 +17,9 @@ I'm a passionate full-stack developer with a strong focus on innovative problem-
   &nbsp;
   <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"></a>
   &nbsp;
-  <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white" alt="Angular"></a>
-  &nbsp;
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express"></a>
+  &nbsp;
+  <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white" alt="Angular"></a>
   &nbsp;
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a>
   &nbsp;
@@ -36,6 +36,10 @@ I'm a passionate full-stack developer with a strong focus on innovative problem-
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"></a>
   &nbsp;
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></a>
+  &nbsp;
+  <a href="https://stripe.com/"><img src="https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe"></a>
+  &nbsp;
+  <a href="https://sendgrid.com/"><img src="https://img.shields.io/badge/-SendGrid-006C8C?logo=sendgrid&logoColor=white" alt="SendGrid"></a>
 </p>
 <br>
 
