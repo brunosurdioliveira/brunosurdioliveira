@@ -1,12 +1,12 @@
 # <p align='center'>Hi there! 👋 I'm Bruno Surdi Oliveira</p>
 
-I'm a passionate full-stack developer with a strong focus on innovative problem-solving. I enjoy tackling challenging problems and making an impact with technology.
+Senior Software Engineer focused on building scalable, resilient full-stack applications and high-throughput systems.
 
-- 🌱 I’m currently working with **TypeScript**, **JavaScript**, **Node**, and **Vue**.
-- 💡 I was the main developer of **MedReddie**, a healthcare solution that won **$450K at Elevate** and secured **first place in a national competition**.
-- 📚 I'm studying **Data Structure** and **Algorithmic Problems** aside, constantly improving my ability to write efficient, scalable code.
-- 🚀 Co-founder of **COVID-19 Tracker** - The website attracted over 10,000 visits within the first month. It gained significant recognition in Brazil, where it was highlighted as a valuable resource during the coronavirus pandemic.
-  <br>
+- 🚀 **Currently:** Senior Software Engineer at DoorWay, designing event-driven backend integrations & modern full-stack features.
+- 💡 **Impact:** Main developer of **MedReddie** (won $450K at Elevate) & Co-founder of **COVID-19 Tracker** (10,000+ visits in month 1, featured in major news).
+- 🛠️ **Core Focus:** Distributed Systems, Event-Driven Architecture (SQS/Queues), AI Agentic Tooling, and API Performance.
+- 📬 **Connect:** [LinkedIn](https://www.linkedin.com/in/bruno-surdi-oliveira/) | [Email](mailto:bruno.surdi.oliveira@gmail.com) 
+<br>
 
 ## <p align='center'> 🛠️ Tech Stack</p>
 
